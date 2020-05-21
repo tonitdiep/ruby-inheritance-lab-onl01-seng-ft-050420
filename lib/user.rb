@@ -3,7 +3,7 @@ class User
 
 end
 
-jim = User.new
+"jim" = User.new
 steve = User.new
 avi = User.new
 
