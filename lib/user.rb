@@ -6,6 +6,6 @@ end
 jim = User.new
 steve = User.new
 avi = User.new
-jim = Jim.new
+
 jim.first_name = "Jim"
 jim.last_name = "Jim"
